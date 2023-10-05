@@ -168,3 +168,5 @@ func main() {
 		fmt.Printf("Error starting InvoiceChaincode: %s", err)
 	}
 }
+
+//testing
